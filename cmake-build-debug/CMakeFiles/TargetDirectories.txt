@@ -1,0 +1,3 @@
+/Users/juratebreimelyte/CLionProjects/uzduotis-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/juratebreimelyte/CLionProjects/uzduotis-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/juratebreimelyte/CLionProjects/uzduotis-1/cmake-build-debug/CMakeFiles/uzduotis_1.dir
